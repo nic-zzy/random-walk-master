@@ -132,6 +132,7 @@ dmypy.json
 
 # dataset
 /data
+/save
 
 # .idea
 /.idea
